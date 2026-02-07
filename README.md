@@ -1,4 +1,4 @@
-## 1. System Definition:
+## 1. System Definition: FSS
 This repository demonstrates how to modernize a legacy insurance workflow using COBOL, JCL, and DB2, with Modern COBOL development in Visual Studio Code (VS Code). 
 The system implemented in this project is referred to as the **Field Service System (FSS)**.
 
