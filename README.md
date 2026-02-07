@@ -16,3 +16,10 @@ COBOL, CICS, JCL, DB2 / Query, IPFS, VS code, Jason, Modern COBOL
 ## 4. Notes: 
 All schedules, resources, and budgets described in this project are fictional and are used solely for demonstration purposes.
 
+## Repository Explain
+1. Meeting Minutes
+   This repository contains meeting minutes for insurance system analysis.
+
+## Documents
+- Meeting_minutes.docx  
+  Review of the current (As-Is) insurance application process and Pain Points in the Current Process.
